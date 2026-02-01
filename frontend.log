@@ -1,0 +1,29 @@
+
+> roulette@1.0.0 serve
+> npx http-server -p 5173 -o
+
+Starting up http-server, serving ./
+
+http-server version: 14.1.1
+
+http-server settings: 
+CORS: disabled
+Cache: 3600 seconds
+Connection Timeout: 120 seconds
+Directory Listings: visible
+AutoIndex: visible
+Serve GZIP Files: false
+Serve Brotli Files: false
+Default File Extension: none
+
+Available on:
+  http://127.0.0.1:5173
+  http://192.168.0.170:5173
+Hit CTRL-C to stop the server
+Open: http://127.0.0.1:5173
+
+[Sun Feb 01 2026 21:48:08 GMT+1100 (Australian Eastern Daylight Time)]  "GET /" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+(node:58927) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[Sun Feb 01 2026 21:48:08 GMT+1100 (Australian Eastern Daylight Time)]  "GET /dist/index.js" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+[Sun Feb 01 2026 21:59:34 GMT+1100 (Australian Eastern Daylight Time)]  "GET /" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"

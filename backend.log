@@ -1,0 +1,210 @@
+/Users/mjhmatt/roulette/backend/main.py:659: DeprecationWarning: 
+        on_event is deprecated, use lifespan event handlers instead.
+
+        Read more about it in the
+        [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+        
+  @app.on_event("startup")
+INFO:     Started server process [14583]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     ('127.0.0.1', 54041) - "WebSocket /socket.io/?EIO=4&transport=websocket" [accepted]
+INFO:     connection open
+Warning: pytesseract not available, using template matching for number detection
+[SERVER] Starting vision engine...
+[SERVER] Starting unified server on port 8000 (SocketIO + API)
+Vision Engine: Starting. Monitor: 2560x1440
+[RUN] Entering main loop...
+Vision Engine: Starting. Monitor: 2560x1440
+[RUN] Entering main loop...
+INFO:     127.0.0.1:54053 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 54068) - "WebSocket /socket.io/?EIO=4&transport=websocket" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:54080 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54080 - "OPTIONS /api/select-window HTTP/1.1" 200 OK
+[DARWIN] Applied Retina scaling: 1.0x
+[WINDOW SELECTED] 3D Live Casino Roulette: 2560x1409 at (2560, 31)
+INFO:     127.0.0.1:54080 - "POST /api/select-window HTTP/1.1" 200 OK
+[CALIBRATION] Locked: (1303, 708), R=560
+[DARWIN] Applied Retina scaling: 1.0x
+[WINDOW SELECTED] 3D Live Casino Roulette 🔊: 2560x1409 at (0, 31)
+INFO:     127.0.0.1:54080 - "POST /api/select-window HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54107 - "GET /api/windows HTTP/1.1" 200 OK
+[DARWIN] Applied Retina scaling: 1.0x
+[WINDOW SELECTED] 3D Live Casino Roulette: 2560x1409 at (2560, 31)
+INFO:     127.0.0.1:54117 - "POST /api/select-window HTTP/1.1" 200 OK
+[DARWIN] Applied Retina scaling: 1.0x
+[WINDOW SELECTED] 3D Live Casino Roulette 🔊: 2560x1409 at (0, 31)
+INFO:     127.0.0.1:54119 - "POST /api/select-window HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54121 - "GET /api/windows HTTP/1.1" 200 OK
+[DARWIN] Applied Retina scaling: 1.0x
+[WINDOW SELECTED] 3D Live Casino Roulette 🔊: 2560x1409 at (0, 31)
+INFO:     127.0.0.1:54130 - "POST /api/select-window HTTP/1.1" 200 OK
+[CALIBRATION] Locked: (1294, 709), R=551
+INFO:     127.0.0.1:54107 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54130 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54130 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54130 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54181 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54130 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54130 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54130 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54130 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54130 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     connection closed
+[SPIN FINISHED] Result: -1
+INFO:     127.0.0.1:54130 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54130 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54192 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54130 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54192 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54192 - "GET /api/windows HTTP/1.1" 200 OK
+[WINDOW RESET] Using full screen capture
+INFO:     127.0.0.1:54192 - "POST /api/reset-window HTTP/1.1" 200 OK
+[WINDOW RESET] Using full screen capture
+INFO:     127.0.0.1:54130 - "POST /api/reset-window HTTP/1.1" 200 OK
+[WINDOW RESET] Using full screen capture
+INFO:     127.0.0.1:54194 - "POST /api/reset-window HTTP/1.1" 200 OK
+[WINDOW RESET] Using full screen capture
+INFO:     127.0.0.1:54196 - "POST /api/reset-window HTTP/1.1" 200 OK
+[WINDOW RESET] Using full screen capture
+INFO:     127.0.0.1:54198 - "POST /api/reset-window HTTP/1.1" 200 OK
+[WINDOW RESET] Using full screen capture
+INFO:     127.0.0.1:54200 - "POST /api/reset-window HTTP/1.1" 200 OK
+[WINDOW RESET] Using full screen capture
+INFO:     127.0.0.1:54192 - "POST /api/reset-window HTTP/1.1" 200 OK
+[WINDOW RESET] Using full screen capture
+INFO:     127.0.0.1:54130 - "POST /api/reset-window HTTP/1.1" 200 OK
+[WINDOW RESET] Using full screen capture
+INFO:     127.0.0.1:54194 - "POST /api/reset-window HTTP/1.1" 200 OK
+[WINDOW RESET] Using full screen capture
+INFO:     127.0.0.1:54196 - "POST /api/reset-window HTTP/1.1" 200 OK
+[WINDOW RESET] Using full screen capture
+INFO:     127.0.0.1:54198 - "POST /api/reset-window HTTP/1.1" 200 OK
+[WINDOW RESET] Using full screen capture
+INFO:     127.0.0.1:54200 - "POST /api/reset-window HTTP/1.1" 200 OK
+[WINDOW RESET] Using full screen capture
+INFO:     127.0.0.1:54192 - "POST /api/reset-window HTTP/1.1" 200 OK
+[WAITING] No window selected - resetting all state...
+INFO:     127.0.0.1:54192 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54211 - "GET /api/windows HTTP/1.1" 200 OK
+[DARWIN] Applied Retina scaling: 1.0x
+[WINDOW SELECTED] (36) 208 Roulette Wheel Spins - 2+ Hours of Spinning Pleasure - Both Directions - Black Scoreboard - YouTube 🔊: 2560x1409 at (2560, 31)
+INFO:     127.0.0.1:54211 - "POST /api/select-window HTTP/1.1" 200 OK
+[CALIBRATION] Locked: (1281, 712), R=432
+INFO:     127.0.0.1:54211 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     127.0.0.1:54211 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 54234) - "WebSocket /socket.io/?EIO=4&transport=websocket" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:54211 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54232 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54232 - "GET /api/windows HTTP/1.1" 200 OK
+[SPIN FINISHED] Result: 25
+INFO:     127.0.0.1:54232 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54262 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54262 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54262 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54270 - "GET /api/windows HTTP/1.1" 200 OK
+[SPIN FINISHED] Result: 0
+INFO:     127.0.0.1:54272 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54272 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54296 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     127.0.0.1:54296 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 54310) - "WebSocket /socket.io/?EIO=4&transport=websocket" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:54312 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54312 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54317 - "GET /api/windows HTTP/1.1" 200 OK
+[SPIN FINISHED] Result: 24
+INFO:     127.0.0.1:54331 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54331 - "GET /api/windows HTTP/1.1" 200 OK
+[SPIN FINISHED] Result: 3
+INFO:     127.0.0.1:54359 - "GET /api/windows HTTP/1.1" 200 OK
+[SPIN FINISHED] Result: 21
+INFO:     127.0.0.1:54432 - "GET /api/windows HTTP/1.1" 200 OK
+[SPIN FINISHED] Result: 0
+INFO:     127.0.0.1:54515 - "GET /api/windows HTTP/1.1" 200 OK
+[SPIN FINISHED] Result: 9
+INFO:     127.0.0.1:54561 - "GET /api/windows HTTP/1.1" 200 OK
+[SPIN FINISHED] Result: 0
+INFO:     127.0.0.1:54582 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54582 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54590 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54593 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     127.0.0.1:54593 - "GET /api/windows HTTP/1.1" 200 OK
+[SPIN FINISHED] Result: 7
+INFO:     127.0.0.1:54605 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 54599) - "WebSocket /socket.io/?EIO=4&transport=websocket" [accepted]
+INFO:     connection closed
+INFO:     127.0.0.1:54605 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54628 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 54627) - "WebSocket /socket.io/?EIO=4&transport=websocket" [accepted]
+INFO:     connection open
+[SPIN FINISHED] Result: 19
+INFO:     127.0.0.1:54654 - "GET /api/windows HTTP/1.1" 200 OK
+[SPIN FINISHED] Result: 9
+INFO:     127.0.0.1:54719 - "GET /api/windows HTTP/1.1" 200 OK
+[SPIN FINISHED] Result: 13
+[SPIN FINISHED] Result: 20
+INFO:     127.0.0.1:54859 - "GET /api/windows HTTP/1.1" 200 OK
+[SPIN FINISHED] Result: 26
+INFO:     127.0.0.1:54922 - "GET /api/windows HTTP/1.1" 200 OK
+[SPIN FINISHED] Result: 21
+INFO:     127.0.0.1:54971 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     ('127.0.0.1', 55036) - "WebSocket /socket.io/?EIO=4&transport=websocket" [accepted]
+INFO:     connection open
+[SPIN FINISHED] Result: 7
+[SPIN FINISHED] Result: 9
+INFO:     127.0.0.1:55044 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     ('127.0.0.1', 55094) - "WebSocket /socket.io/?EIO=4&transport=websocket" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:55115 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     connection closed
+[SPIN FINISHED] Result: 7
+INFO:     127.0.0.1:55154 - "GET /api/windows HTTP/1.1" 200 OK
+[SPIN FINISHED] Result: 27
+[SPIN FINISHED] Result: 36
+[SPIN FINISHED] Result: 11
+[SPIN FINISHED] Result: 32
+[SPIN FINISHED] Result: 5
+INFO:     127.0.0.1:55580 - "GET /socket.io/?EIO=4&transport=polling&t=PmOqJ7F HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55589 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55592 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 55575) - "WebSocket /socket.io/?EIO=4&transport=websocket" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:55580 - "POST /socket.io/?EIO=4&transport=polling&t=PmOqK2f&sid=7SfXKfCJk-csJqtfAAAP HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55600 - "GET /socket.io/?EIO=4&transport=polling&t=PmOqK2g&sid=7SfXKfCJk-csJqtfAAAP HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55600 - "GET /socket.io/?EIO=4&transport=polling&t=PmOqK4F&sid=7SfXKfCJk-csJqtfAAAP HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 55601) - "WebSocket /socket.io/?EIO=4&transport=websocket&sid=7SfXKfCJk-csJqtfAAAP" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:55600 - "GET /socket.io/?EIO=4&transport=polling&t=PmOqK4_&sid=7SfXKfCJk-csJqtfAAAP HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55600 - "GET /socket.io/?EIO=4&transport=polling&t=PmOqK51&sid=7SfXKfCJk-csJqtfAAAP HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55603 - "OPTIONS /api/select-window HTTP/1.1" 200 OK
+[DARWIN] Applied Retina scaling: 1.0x
+[WINDOW SELECTED] (36) 208 Roulette Wheel Spins - 2+ Hours of Spinning Pleasure - Both Directions - Black Scoreboard - YouTube 🔊: 2560x1409 at (2560, 31)
+INFO:     127.0.0.1:55603 - "POST /api/select-window HTTP/1.1" 200 OK
+[CALIBRATION] Locked: (1272, 707), R=441
+INFO:     127.0.0.1:55603 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55608 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55603 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55608 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55603 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55608 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     connection closed
+INFO:     connection closed
+[SPIN FINISHED] Result: 4
+INFO:     127.0.0.1:55647 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55649 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55647 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55649 - "GET /api/windows HTTP/1.1" 200 OK
+INFO:     Waiting for connections to close. (CTRL+C to force quit)
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [14583]
